@@ -11,7 +11,7 @@ This tool is designed to empower patients with relevant, timely information thro
 
 ## A Closer Look at the App in Action
 
-![Patient Journey App Notification](/assets/img/app-2.jpg)
+![Patient Journey App Notification](images/app-2.jpg)
 
 The app proactively engages users through push notifications like the one shown above, which translates from Dutch as:
 
@@ -23,7 +23,7 @@ This real-time messaging helps catch complications early and reassures patients 
 
 ## Empowering Clinicians Behind the Scenes
 
-![Clinicians Using the Patient Journey App Dashboard](/assets/img/Symptoom_dagboek_Wietske_en_Rinie_1_.jpg)
+![Clinicians Using the Patient Journey App Dashboard](images/Symptoom_dagboek_Wietske_en_Rinie_1_.jpg)
 
 Healthcare professionals use an intuitive dashboard to manage patient content, monitor progress, and respond to concerns. The flexibility to tailor messages and education by condition or treatment ensures patients get what they need—when they need it.
 
@@ -31,7 +31,7 @@ Healthcare professionals use an intuitive dashboard to manage patient content, m
 
 ## Remote Monitoring With Meaningful Data
 
-![Data Dashboard COPD Monitoring](/assets/img/bloxx-2.jpg)
+![Data Dashboard COPD Monitoring](images/bloxx-2.jpg)
 
 For chronic conditions like COPD, the app allows for **home monitoring**. Dashboards display patient-reported outcomes, medication effectiveness, and symptom trends over time. This kind of data-driven insight not only supports individualized care but also aids clinical decision-making and research.
 
