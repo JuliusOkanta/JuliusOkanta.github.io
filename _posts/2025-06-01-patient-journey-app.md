@@ -1,13 +1,6 @@
 
 ---
-layout: post
-title: Navigating Healthcare in the Cloud: Exploring the Patient Journey App
-subtitle: How one digital tool is reshaping the patient experience
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [healthcare, cloud, biomedicine, digital health]
-comments: true
-author: Julius Okanta
+By: Julius Okanta
 ---
 
 As healthcare evolves into a more patient-centric and data-driven ecosystem, cloud technology is playing a pivotal role. One standout solution I recently explored is the **Patient Journey App**—a cloud-based application that personalizes the care experience from start to finish. 
