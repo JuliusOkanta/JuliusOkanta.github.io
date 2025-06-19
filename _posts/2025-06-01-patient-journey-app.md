@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Navigating Healthcare in the Cloud: Exploring the Patient Journey App
